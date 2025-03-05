@@ -17,6 +17,8 @@
 
 - [@YihaoDong](https://github.com/YihaoDong)
 - [@PamudithaSomarathne](https://github.com/PamudithaSomarathne)
+- [@NisalMenuka]()
+- [@DeepanaIshtaweera](https://github.com/deepanaishtaweera)
 - [@wdanusha](https://www.github.com/wdanusha)
 
 ## License
