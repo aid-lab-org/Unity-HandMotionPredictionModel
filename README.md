@@ -1,5 +1,13 @@
 # Hand Prediction Model for Unity
 
+Hey there! We’re thrilled you’re here. This is the quick start guide for using our hand prediction model in Unity. 
+
+Detailed information of the model can be found in our paper. If you use this work, please cite our paper:
+
+> ```
+> Nisal Menuka Gamage, Deepana Ishtaweera, Martin Weigel, and Anusha Withana. 2021. So Predictable! Continuous 3D Hand Trajectory Prediction in Virtual Reality. In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST '21). Association for Computing Machinery, New York, NY, USA, 332–343. https://doi.org/10.1145/3472749.3474753
+> ```
+
 ## Test Procedure
 
 ### Requirements:
