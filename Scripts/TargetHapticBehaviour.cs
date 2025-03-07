@@ -15,7 +15,7 @@ Usage:
 Refer to the comments for the usage of parameters.
 
 License:
-MIT License
+Creative Commons Attribution 4.0 International Public License
 
 2024 AidLAB 
 The University of Sydney

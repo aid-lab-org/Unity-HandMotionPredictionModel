@@ -8,7 +8,7 @@ This script alter the screen refresh rate for meta quest.
     For other devices, please refer to the developer documentations.
 
 License:
-MIT License
+Creative Commons Attribution 4.0 International Public License
 
 2024 AidLAB 
 The University of Sydney

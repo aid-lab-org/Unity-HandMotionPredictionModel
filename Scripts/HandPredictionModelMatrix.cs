@@ -9,7 +9,7 @@ This script provide the hand trajectories prediction based on Gamage et al.
     MathNet.Numerics package is reuqred for matrix calculation, which can be installed using NuGet for Unity
 
 License:
-MIT License
+Creative Commons Attribution 4.0 International Public License
 
 2024 AidLAB 
 The University of Sydney

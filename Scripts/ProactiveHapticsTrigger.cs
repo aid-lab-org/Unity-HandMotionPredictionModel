@@ -21,7 +21,7 @@ trackingOrigin: The GameObject which provides the current position.
 predictedPosition: The predicted position for the current frame, can be used for logging.
 
 License:
-MIT License
+Creative Commons Attribution 4.0 International Public License
 
 2024 AidLAB 
 The University of Sydney
