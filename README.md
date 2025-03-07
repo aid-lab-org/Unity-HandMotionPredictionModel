@@ -29,7 +29,7 @@ Detailed information of the model can be found in our paper. If you use this wor
 
 - [@YihaoDong](https://github.com/YihaoDong)
 - [@PamudithaSomarathne](https://github.com/PamudithaSomarathne)
-- [@NisalMenuka]()
+- [@NisalMenuka](https://au.linkedin.com/in/nisal-menuka-gamage-0813ba22)
 - [@DeepanaIshtaweera](https://github.com/deepanaishtaweera)
 - [@wdanusha](https://www.github.com/wdanusha)
 
