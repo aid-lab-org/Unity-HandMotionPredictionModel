@@ -27,6 +27,9 @@ Creative Commons Attribution 4.0 International Public License
 The University of Sydney
 */
 
+/*
+Parameters
+
 SAMPLE_SIZE: Number of history samples used for each prediction.
 
 SAMPLE_INTERVAL: The prediction frequency, in seconds. This changes Time.fixedDeltaTime. 
@@ -38,6 +41,7 @@ should be positioned ahead of the trackingOrigin.
 trackingOrigin: The GameObject which provides the current position. 
 
 predictedPosition: The predicted position for the current frame, can be used for logging. 
+*/
 
 using System;
 using System.IO;
@@ -46,7 +50,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Diagnostics;
 
-public class ProactiveHapticsTrigger : MonoBehaviour
+public class handPositionPredictor : MonoBehaviour
 {
     public int SAMPLE_SIZE = 50;
     public float SAMPLE_INTERVAL = 0.0125F;
